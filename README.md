@@ -10,9 +10,10 @@ update the relevant parts of this document.
 
 ### Contributing
 
-If you want to contribute to this list, please fork this project in Github and
-send a PR. I will review your contribution in a timely manner and merge it 
+If you want to contribute to this list, please fork [this project](https://github.com/jackboot7/engineering-management/)
+in Github and send a PR. I will review your contribution in a timely manner and merge it
 to the main branch.
+
 
 
 ## Engineering Management Topics
