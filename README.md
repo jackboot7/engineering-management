@@ -36,7 +36,7 @@ to the main branch.
 ### Culture
 
 - [Netflix Culture Guideline](https://jobs.netflix.com/culture)
-- [Spotify Engineering Culture](https://www.youtube.com/watch?v=Yvfz4HGtoPc&list=PLuV-Wj3HFAwZdJspPQpSuqHfox_4SBEXL): Youtube playlist.
+- [Spotify Engineering Culture](https://www.youtube.com/watch?v=Yvfz4HGtoPc&list=PLuV-Wj3HFAwZdJspPQpSuqHfox_4SBEXL): Youtube playlist of videos explaining the Spotify Engineering Culture.
 
 
 ### Mentorship and Onboarding
