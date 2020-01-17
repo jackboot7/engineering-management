@@ -75,6 +75,7 @@ This is a list of books I've read (or partially read) and that gave me great ins
 
 ### Twitter accounts
 
+- Manager Tools ([@managertools](https://twitter.com/managertools))
 - Juan Pablo Buriticá ([@buritica](https://twitter.com/buritica))
 - Camille Fournier ([@skamille](https://twitter.com/skamille))
 - Vidal Graupera ([@vgraupera](https://twitter.com/vgraupera))
