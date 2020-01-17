@@ -52,7 +52,7 @@ to the main branch.
 
 ### Articles
 
-- [Increment] (https://increment.com/issues/): A print and digital magazine, published by Stripe, about how teams build and operate software systems at scale.
+- [Increment](https://increment.com/issues/): A print and digital magazine, published by Stripe, about how teams build and operate software systems at scale.
 
 
 ### Books
