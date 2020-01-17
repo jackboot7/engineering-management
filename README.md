@@ -16,14 +16,13 @@ in Github and send a PR. I will review your contribution in a timely manner and 
 to the main branch.
 
 
-
 ## Engineering Management Topics
 
 ### Career Ladders
 
-- [Engineering Ladders](http://www.engineeringladders.com/)
+- [Engineering Ladders](http://www.engineeringladders.com/): A framework for Engineering Managers.
 - [Khan Academy](https://engineering.khanacademy.org/posts/career-development.htm)
-- [Levels.fyi](https://www.levels.fyi/)
+- [Levels.fyi](https://www.levels.fyi/): A comparison tool for different companies (Google, Facebook, ...)
 - [Engineering Levels at Patreon](https://levels.patreon.com/): A great example on how to design your team's engineering ladder.
 
 <!-- TODO: other topics -->
@@ -74,11 +73,9 @@ This is a list of books I've read (or partially read) and that have give me grea
 [Engineering Manager with Juan Pablo Buriticá](https://platzi.com/cursos/eng-management/): Platzi course in spanish.
 
 
-
 ### Twitter accounts
 
 - Juan Pablo Buriticá [@buritica](https://twitter.com/buritica)
 - Camille Fournier [skamille](https://twitter.com/skamille)
 - Vidal Graupera [@vgraupera](https://twitter.com/vgraupera)
 - Jesse Palmer [@jesselpalmer](https://twitter.com/jesselpalmer)
-
