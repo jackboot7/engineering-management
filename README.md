@@ -58,7 +58,7 @@ to the main branch.
 
 ### Books
 
-This is a list of books I've read (or partially read) and that have give me great insights on engineering management and technology organizations.
+This is a list of books I've read (or partially read) and that gave me great insights on software engineering management and technology organizations.
 
 - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/-/es/Camille-Fournier/dp/1491973897/) by Camille Fournier.
 - [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/-/es/Nicole-Forsgren-PhD/dp/1942788339) by Nicole Forsgren, Jez Humble and Gene Kim
