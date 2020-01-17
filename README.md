@@ -24,13 +24,12 @@ to the main branch.
 - [Levels.fyi](https://www.levels.fyi/)
 - [Engineering Levels at Patreon](https://levels.patreon.com/): A great example on how to design your team's engineering ladder.
 
-### 1:1s
+<!-- TODO: other topics -->
 
-### Hiring
-
-### Firing
-
-### Performance measure
+<!-- ### 1:1s -->
+<!-- ### Hiring -->
+<!-- ### Firing -->
+<!-- ### Performance measure -->
 
 
 ### Culture
