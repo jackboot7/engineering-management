@@ -41,7 +41,7 @@ to the main branch.
 
 ### Mentorship and Onboarding
 
-[College Student to SRE: Onboarding Your Entry Level Talent](https://www.youtube.com/watch?v=TYX5ihgIL7s): LinkedIn talk at SRECon16
+- [College Student to SRE: Onboarding Your Entry Level Talent](https://www.youtube.com/watch?v=TYX5ihgIL7s): LinkedIn talk at SRECon16
 
 
 ## General topics on management
@@ -81,3 +81,4 @@ This is a list of books I've read (or partially read) and that gave me great ins
 - Camille Fournier ([@skamille](https://twitter.com/skamille))
 - Vidal Graupera ([@vgraupera](https://twitter.com/vgraupera))
 - Jesse Palmer ([@jesselpalmer](https://twitter.com/jesselpalmer))
+- Gergely Nemeth [@nthgergo](https://twitter.com/nthgergo)
