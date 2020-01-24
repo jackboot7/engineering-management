@@ -2,7 +2,7 @@
 
 ### About
 
-This is list of Engineering Management resources. Although most of these resources
+This is a list of Engineering Management resources. Although most of these resources
 are in english some of them are in Spanish.
 
 These are resources I've used myself in my journey as an engineering manager. This page will
