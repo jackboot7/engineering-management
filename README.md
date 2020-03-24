@@ -24,6 +24,7 @@ to the main branch.
 - [Khan Academy](https://engineering.khanacademy.org/posts/career-development.htm)
 - [Levels.fyi](https://www.levels.fyi/): A comparison tool for different companies (Google, Facebook, ...)
 - [Engineering Levels at Patreon](https://levels.patreon.com/): A great example on how to design your team's engineering ladder.
+- [bmoeskau/engineering-ladders](https://github.com/bmoeskau/engineering-ladders): A collection of engineering ladders for reference and inspiration
 
 <!-- TODO: other topics -->
 
