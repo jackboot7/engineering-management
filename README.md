@@ -59,6 +59,10 @@ to the main branch.
 - [The Pragmatic Engineer](https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers): How I Do (Hopefully) Fair Performance Reviews for Software Developers
 
 
+### Newsletters
+
+- [Level Up](http://levelup.patkua.com/): Level Up delivers a curated newsletter for leaders in tech. Ideal for busy people such as Tech Leads, Engineering Managers, VPs of Engineering, CTOs and more
+
 ### Books
 
 This is a list of books I've read (or partially read) and that gave me great insights on software engineering management and technology organizations.
