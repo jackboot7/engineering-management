@@ -24,8 +24,8 @@ to the main branch.
 - [Khan Academy](https://engineering.khanacademy.org/posts/career-development.htm): Khan Academy Career Development.
 - [Levels.fyi](https://www.levels.fyi/): A comparison tool for different companies (Google, Facebook, ...)
 - [Engineering Levels at Patreon](https://levels.patreon.com/): A great example on how to design your team's engineering ladder.
-- [bmoeskau/engineering-ladders](https://github.com/bmoeskau/engineering-ladders): A collection of engineering ladders for reference and inspiration.
 - [Square’s Growth Framework for Engineers and Engineering Managers](https://developer.squareup.com/blog/squares-growth-framework-for-engineers-and-engineering-managers/): A system for leveling up at Square.
+- [bmoeskau/engineering-ladders](https://github.com/bmoeskau/engineering-ladders): A collection of engineering ladders for reference and inspiration.
 
 <!-- TODO: other topics -->
 
