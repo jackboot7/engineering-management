@@ -21,10 +21,11 @@ to the main branch.
 ### Career Ladders
 
 - [Engineering Ladders](http://www.engineeringladders.com/): A framework for Engineering Managers.
-- [Khan Academy](https://engineering.khanacademy.org/posts/career-development.htm)
+- [Khan Academy](https://engineering.khanacademy.org/posts/career-development.htm): Khan Academy Career Development.
 - [Levels.fyi](https://www.levels.fyi/): A comparison tool for different companies (Google, Facebook, ...)
 - [Engineering Levels at Patreon](https://levels.patreon.com/): A great example on how to design your team's engineering ladder.
-- [bmoeskau/engineering-ladders](https://github.com/bmoeskau/engineering-ladders): A collection of engineering ladders for reference and inspiration
+- [bmoeskau/engineering-ladders](https://github.com/bmoeskau/engineering-ladders): A collection of engineering ladders for reference and inspiration.
+- [Square’s Growth Framework for Engineers and Engineering Managers](https://developer.squareup.com/blog/squares-growth-framework-for-engineers-and-engineering-managers/): A system for leveling up at Square.
 
 <!-- TODO: other topics -->
 
@@ -43,6 +44,7 @@ to the main branch.
 ### Mentorship and Onboarding
 
 - [College Student to SRE: Onboarding Your Entry Level Talent](https://www.youtube.com/watch?v=TYX5ihgIL7s): LinkedIn talk at SRECon16
+- [Setting goals with your engineers that don’t completely suck](https://medium.com/@tsunamino/setting-goals-with-your-engineers-that-dont-completely-suck-cb76b87e4275): Article about goal setting with your direct reports.
 
 
 ## General topics on management
@@ -57,6 +59,7 @@ to the main branch.
 - [Increment](https://increment.com/issues/): A print and digital magazine, published by Stripe, about how teams build and operate software systems at scale.
 - [Stripe Atlas: Scaling engineering organizations](https://stripe.com/es-mx/atlas/guides/scaling-eng): Lessons learned from scaling Stripe's engineering team.
 - [The Pragmatic Engineer](https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers): How I Do (Hopefully) Fair Performance Reviews for Software Developers
+- [7 steps to building an engineering competency matrix](https://circleci.com/blog/7-steps-to-building-an-engineering-competency-matrix/): CircleCI's steps to build an engineering competency matrix.
 
 
 ### Newsletters
@@ -73,6 +76,7 @@ This is a list of books I've read (or partially read) and that gave me great ins
 - [Debugging Teams: Better Productivity through Collaboration](https://www.amazon.com/-/es/Brian-W-Fitzpatrick/dp/1491932058/) by Brian Fitzpatric and Ben Collins-Sussman.
 - [The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition](https://www.amazon.com/-/es/Frederick-P-Brooks-Jr/dp/0201835959/) a classic by Frederick Brooks.
 - [How Google Works](https://www.howgoogleworks.net/) by Eric Schmidt & Jonathan Rosenberg, with Alan Eagle.
+- [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management-ebook/dp/B07QYCHJ7V/) by [Will Larson](https://lethain.com/).
 
 
 ### Courses
