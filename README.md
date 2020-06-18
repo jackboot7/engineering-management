@@ -53,7 +53,7 @@ to the main branch.
 ### Websites and blogs
 
 - [Managers Club](https://www.managersclub.com/)
-
+- [Engineering Management Playbook](https://github.com/ksindi/managers-playbook)
 
 ### Articles
 
