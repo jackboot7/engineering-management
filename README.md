@@ -55,6 +55,7 @@ to the main branch.
 
 - [Managers Club](https://www.managersclub.com/)
 - [Manager's Playbook](https://github.com/ksindi/managers-playbook)
+- [Irrational Exuberance](https://lethain.com/)
 
 ### Articles
 
