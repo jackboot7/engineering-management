@@ -41,6 +41,7 @@ to the main branch.
 - [Spotify Engineering Culture](https://www.youtube.com/watch?v=Yvfz4HGtoPc&list=PLuV-Wj3HFAwZdJspPQpSuqHfox_4SBEXL): Youtube playlist of videos explaining the Spotify Engineering Culture.
 - [How to build your company's engineering brand](https://www.lethain.com/eng-brand/)
 - [The Developer Culture Test: What Defines Places Where Developers Thrive?](https://blog.pragmaticengineer.com/the-developer-culture-test/)
+- [Blameless Post Mortems](https://www.youtube.com/watch?v=4nRahQddtJ0): [John Allspaw](https://www.adaptivecapacitylabs.com/john-allspaw/) from Adaptive Capacity Labs talks about learning from mistakes to become more resilent.
 
 ### Mentorship and Onboarding
 
