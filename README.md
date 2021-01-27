@@ -80,7 +80,8 @@ This is a list of books I've read (or partially read) and that gave me great ins
 - [The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition](https://www.amazon.com/-/es/Frederick-P-Brooks-Jr/dp/0201835959/) a classic by Frederick Brooks.
 - [How Google Works](https://www.howgoogleworks.net/) by Eric Schmidt & Jonathan Rosenberg, with Alan Eagle.
 - [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management-ebook/dp/B07QYCHJ7V/) by [Will Larson](https://lethain.com/).
-
+- [Turn the Ship Around!](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404)
+  by L. David Marquet.
 
 ### Courses
 
