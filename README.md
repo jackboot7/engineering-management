@@ -68,6 +68,7 @@ to the main branch.
 ### Newsletters
 
 - [Level Up](http://levelup.patkua.com/): Level Up delivers a curated newsletter for leaders in tech. Ideal for busy people such as Tech Leads, Engineering Managers, VPs of Engineering, CTOs and more
+- [CTO Insights](https://insights.toshotrajanov.com/): CTO Insights is a curated weekly newsletter on software engineering & technical leadership.
 
 ### Books
 
